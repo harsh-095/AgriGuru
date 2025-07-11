@@ -1,1 +1,13 @@
-# AgriGuru
+## AgriGuru
+
+#### Set Up
+
+```
+pip install streamlit requests
+pip install python-multipart
+pip install sentence-transformers torchvision pillow numpy
+pip install fastapi uvicorn
+pip install -U langchain-huggingface
+pip install -U langchain-community
+pip install faiss-cpu langchain sentence-transformers pandas
+```
