@@ -2,7 +2,19 @@
 
 Progress
 
-To-Do
+1. Crop Suggestion, Images: 1. Crop detection 2. Crop disease detection
+
+2. SQL Query Generation
+
+Next To-Do
+
+1. Query Expansion - (Check need for sql generation if not general,if yes combine with nrml msg)
+
+2. Memory & Cache
+
+3. Add audio conversion
+
+Planned
 
 1. Query Expansion - To have higher hit rate
 2. Multi-Retrieval (1st level- ANN:approx nearest, 2nd level - Finer )
@@ -15,6 +27,7 @@ To-Do
 9. Query based searchs , SQL query integration
    10 . Optimization Techniques like User Feedback
 10. Invalidating wrong response in cache or remove old data
+11. Combining all apis in one, crop , image
 
 #### Set Up
 
