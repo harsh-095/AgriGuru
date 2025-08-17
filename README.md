@@ -1,6 +1,24 @@
 ## AgriGuru
 
+Progress
+
+To-Do
+
+1. Query Expansion - To have higher hit rate
+2. Multi-Retrieval (1st level- ANN:approx nearest, 2nd level - Finer )
+3. Memory For Resonse
+4. Cache for responses
+5. Context Expansion
+6. Text, Image, Audio , Video Embeddings
+7. Performance Optimization
+8. Use OpenRoute or Mistral apis
+9. Query based searchs , SQL query integration
+   10 . Optimization Techniques like User Feedback
+10. Invalidating wrong response in cache or remove old data
+
 #### Set Up
+
+Ref: https://github.com/whyashthakker/RAG
 
 ```
 pip install streamlit requests
